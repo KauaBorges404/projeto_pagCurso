@@ -8,7 +8,7 @@ body{
     display:flex;
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aliceblue;
+    background: linear-gradient(to bottom, #0f172a, #0a3496);
 }
 
 header{
@@ -82,7 +82,7 @@ header h1{
 }
 
 footer{
-    background-color: #0f172a;
+    background-color: #0349672a;
     color: aliceblue;
     text-align: center;
     padding: 20px;    
