@@ -1,22 +1,23 @@
-.produto{
+body{
+    background-image: url(../img/python.png);
+    
+}
 
+.produto{
 background-color: white;
+border-radius: 30px;
+width: 800px;
 flex:1;
 display:flex;
 justify-content:center;
 align-items:center;
+margin: auto;
+margin-top: 80px;
 gap:50px;
 padding:50px;
 
 }
 
-.imagem img{
-
-width:800px;
-height: 400px;
-border-radius:10px;
-
-}
 
 .informacoes{
 
@@ -26,7 +27,7 @@ width:400px;
 
 .informacoes h2{
 
-color:#2563eb;
+color:#0083fd;
 margin-bottom:20px;
 
 }
@@ -51,7 +52,7 @@ padding:12px;
 margin:10px;
 border:none;
 border-radius:5px;
-background:#2563eb;
+background:#ffb730;
 color:white;
 
 }

@@ -1,10 +1,18 @@
-.produto{
+body{
+    background-image: url(../img/css.png);
+    
+}
 
+.produto{
 background-color: white;
+border-radius: 30px;
+width: 800px;
 flex:1;
 display:flex;
 justify-content:center;
 align-items:center;
+margin: auto;
+margin-top: 80px;
 gap:50px;
 padding:50px;
 
